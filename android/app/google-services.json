@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "520019427190",
+    "project_id": "flutfire-5c00a",
+    "storage_bucket": "flutfire-5c00a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520019427190:android:6fb9ffac779fdbe7eb8457",
+        "android_client_info": {
+          "package_name": "com.Assassin.flut_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520019427190-745tlkb48prbfdrlkfliie8s43ttd9gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACI4eXjNL-mYQZOQtOna79ieePsQmnRrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520019427190-745tlkb48prbfdrlkfliie8s43ttd9gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
